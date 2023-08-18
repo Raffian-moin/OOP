@@ -6,7 +6,7 @@ class Cake
     
     public function makeCake() 
     {
-        return "cake will be ready in 30 minutes";
+        return "Vanilla cake will be ready in 30 minutes";
     }
 }
 
