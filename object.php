@@ -4,9 +4,9 @@ class Cake
 {
     public $flour;
     
-    public function makeCake($cake) 
+    public function makeCake($flavour) 
     {
-        echo "{$cake} cake will be ready in 30 minutes";
+        echo "{$flavour} cake will be ready in 30 minutes";
     }
 }
 
